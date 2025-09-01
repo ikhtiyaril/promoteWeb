@@ -10,7 +10,7 @@
     <div class="hidden md:flex space-x-4 lg:space-x-6 items-center">
       <a href="/" class="text-white text-sm sm:text-base lg:text-lg font-medium px-3 py-2 hover:text-blue-200 hover:bg-white/20 transition-all duration-300 rounded-2xl">Home</a>
       <a href="#About" class="text-white text-sm sm:text-base lg:text-lg font-medium px-3 py-2 hover:text-blue-200 hover:bg-white/20 transition-all duration-300 rounded-2xl">About Me</a>
-      <a href="#Order" class="react-btn-interactive text-sm sm:text-base lg:text-lg">Order Now</a>
+      <a href="https://wa.link/gf1t0t" class="react-btn-interactive text-sm sm:text-base lg:text-lg">Order Now</a>
     </div>
 
     <!-- Mobile Menu Button -->
@@ -30,7 +30,7 @@
                      hover:bg-white/10 hover:text-cyan-300 transition">Home</a>
     <a href="#About" class="text-white text-xl font-medium px-4 py-2 rounded-lg 
                      hover:bg-white/10 hover:text-cyan-300 transition">About Me</a>
-    <a href="#Order" class="text-xl font-semibold px-6 py-3 rounded-xl 
+    <a href="https://wa.link/gf1t0t" class="text-xl font-semibold px-6 py-3 rounded-xl 
                      bg-gradient-to-r from-cyan-500 to-blue-500 text-black 
                      hover:from-cyan-400 hover:to-blue-400 shadow-lg 
                      transition">Order Now</a>

@@ -56,17 +56,14 @@
         <!-- Icons -->
         <div class="mt-5 flex items-center gap-4">
           <!-- icon pill -->
-          <a href="#" class="h-12 w-12 rounded-full bg-slate-800/80 flex items-center justify-center hover:bg-slate-700 transition" aria-label="GitHub">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-slate-200" viewBox="0 0 24 24" fill="currentColor"><path d="..."/></svg>
-          </a>
+          <a href="https://www.instagram.com/ikhtiyarill/?next=%2F" class="h-12 w-12 rounded-full bg-slate-800/80 flex items-center justify-center hover:bg-slate-700 transition" aria-label="Instagram">
+<img src="logoIg.png" class="h-6 w-6"/>          </a>
           <!-- LinkedIn -->
-          <a href="#" class="h-12 w-12 rounded-full bg-slate-800/80 flex items-center justify-center hover:bg-slate-700 transition" aria-label="LinkedIn">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-slate-200" viewBox="0 0 24 24" fill="currentColor"><path d="..."/></svg>
-          </a>
+          <a href="https://www.linkedin.com/in/ikhtiyaril-ikhsan-b25aa6347/" class="h-12 w-12 rounded-full bg-slate-800/80 flex items-center justify-center hover:bg-slate-700 transition" aria-label="LinkedIn">
+<img src="logoLinkedin.png" class="h-6 w-6"/>           </a>
           <!-- Instagram -->
-          <a href="#" class="h-12 w-12 rounded-full bg-slate-800/80 flex items-center justify-center hover:bg-slate-700 transition" aria-label="Instagram">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-slate-200" viewBox="0 0 24 24" fill="currentColor"><path d="..."/></svg>
-          </a>
+          <a href="https://github.com/ikhtiyaril" class="h-12 w-12 rounded-full bg-slate-800/80 flex items-center justify-center hover:bg-slate-700 transition" aria-label="GitHub">
+<img src="logoGit.png" class="h-6 w-6"/>           </a>
           <!-- Email -->
           <a href="#" class="h-12 w-12 rounded-full bg-slate-800/80 flex items-center justify-center hover:bg-slate-700 transition" aria-label="Email">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-slate-200" viewBox="0 0 24 24" fill="currentColor"><path d="..."/></svg>
@@ -77,7 +74,7 @@
         <div class="mt-6 rounded-2xl bg-slate-800/80 p-6">
           <h4 class="text-xl font-semibold text-blue-400">Ready to Start?</h4>
           <p class="mt-2 text-slate-300">Konsultasi gratis untuk project website Anda</p>
-          <a href="#contact" class="inline-flex mt-5 items-center justify-center rounded-full bg-blue-500 px-6 py-3 font-semibold text-white hover:bg-blue-600 transition">
+          <a href="https://wa.link/gf1t0t" class="inline-flex mt-5 items-center justify-center rounded-full bg-blue-500 px-6 py-3 font-semibold text-white hover:bg-blue-600 transition">
             Mulai Sekarang
           </a>
         </div>
